@@ -7,7 +7,9 @@
 - 🤔 I’m looking for opportunity to gain ML Research expereince.
 - 📫 How to reach me: rvsharma@ucsd.edu
 - 😄 Here's my portfolio website: [rajasvi.github.io](https://rajasvi.github.io)
-
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasvi&layout=compact&theme=dark&hide_border=True)](https://github.com/rajasvi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasvi&show_icons=true&theme=dark&hide_border=True&layout=compact)
 <!--
 **Rajasvi/rajasvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
