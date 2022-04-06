@@ -7,7 +7,7 @@
 - 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
 - 👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
 - 🤔 I’m looking for opportunity to gain ML Research experience.
-- 🤝 How to connect with me: rvsharma@ucsd.edu 
+- 🤝 How to connect with me: rvsharma@ucsd.edu | [LinkedIn](https://linkedin.com/in/rajasvi)
 - 😄 Here's my portfolio website: [rajasvi.github.io](https://rajasvi.github.io)
 
 <br>
